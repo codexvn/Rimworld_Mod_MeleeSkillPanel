@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MeleeSkillPanel.MenuTitle>显示近战武器列表以及使用概率</MeleeSkillPanel.MenuTitle>
+    <MeleeSkillPanel.Verb>动作</MeleeSkillPanel.Verb>
+    <MeleeSkillPanel.Source>来源</MeleeSkillPanel.Source>
+    <MeleeSkillPanel.Damage>伤害</MeleeSkillPanel.Damage>
+    <MeleeSkillPanel.Cooldown>冷却时间</MeleeSkillPanel.Cooldown>
+    <MeleeSkillPanel.DPS>每秒伤害</MeleeSkillPanel.DPS>
+    <MeleeSkillPanel.ArmorPenetration>护甲穿透</MeleeSkillPanel.ArmorPenetration>
+    <MeleeSkillPanel.Hediff>状态效果</MeleeSkillPanel.Hediff>
+    <MeleeSkillPanel.Weight>权重</MeleeSkillPanel.Weight>
+    <MeleeSkillPanel.Category>类别</MeleeSkillPanel.Category>
+    <MeleeSkillPanel.Category_Best>最佳</MeleeSkillPanel.Category_Best>
+    <MeleeSkillPanel.Category_Worst>最差</MeleeSkillPanel.Category_Worst>
+    <MeleeSkillPanel.Category_Mid>中等</MeleeSkillPanel.Category_Mid>
+    <MeleeSkillPanel.Sel>选择</MeleeSkillPanel.Sel>
+</LanguageData>

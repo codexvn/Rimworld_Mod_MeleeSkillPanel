@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MeleeSkillPanel.MenuTitle>显示近战武器列表以及使用概率</MeleeSkillPanel.MenuTitle>
+    <MeleeSkillPanel.Verb>verb</MeleeSkillPanel.Verb>
+    <MeleeSkillPanel.Source>source</MeleeSkillPanel.Source>
+    <MeleeSkillPanel.Damage>damage</MeleeSkillPanel.Damage>
+    <MeleeSkillPanel.Cooldown>cooldown</MeleeSkillPanel.Cooldown>
+    <MeleeSkillPanel.DPS>dmg/sec</MeleeSkillPanel.DPS>
+    <MeleeSkillPanel.ArmorPenetration>armor pen</MeleeSkillPanel.ArmorPenetration>
+    <MeleeSkillPanel.Hediff>hediff</MeleeSkillPanel.Hediff>
+    <MeleeSkillPanel.Weight>weight</MeleeSkillPanel.Weight>
+    <MeleeSkillPanel.Category>category</MeleeSkillPanel.Category>
+    <MeleeSkillPanel.Category_Best>Best</MeleeSkillPanel.Category_Best>
+    <MeleeSkillPanel.Category_Worst>Worst</MeleeSkillPanel.Category_Worst>
+    <MeleeSkillPanel.Category_Mid>Mid</MeleeSkillPanel.Category_Mid>
+    <MeleeSkillPanel.Sel>sel</MeleeSkillPanel.Sel>
+</LanguageData>
